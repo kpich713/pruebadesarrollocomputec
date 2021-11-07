@@ -1,0 +1,8 @@
+com\edwin\crudspringmongo\CrudSpringMongoApplication.class
+com\edwin\crudspringmongo\dao\api\PersonaRepository.class
+com\edwin\crudspringmongo\commons\GenericServiceAPI.class
+com\edwin\crudspringmongo\commons\GenericServiceImpl.class
+com\edwin\crudspringmongo\controller\PersonaController.class
+com\edwin\crudspringmongo\model\Persona.class
+com\edwin\crudspringmongo\service\api\PersonaServiceAPI.class
+com\edwin\crudspringmongo\service\impl\PersonaServiceImpl.class
